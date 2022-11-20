@@ -1,0 +1,9 @@
+[submodule "file-server-aloysio-heroku"]
+	path = file-server-aloysio-heroku
+	url = ./file-server-aloysio-heroku/
+[submodule "pyginweb"]
+	path = pyginweb
+	url = ./pyginweb
+[submodule "teamoduda"]
+	path = teamoduda
+	url = ./teamoduda
